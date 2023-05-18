@@ -1,2 +1,1 @@
-# OIBSIP
-These are the tasks given by Oasisbyte Infobyte...
+
